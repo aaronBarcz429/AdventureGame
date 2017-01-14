@@ -1,0 +1,17 @@
+Team members:
+Andrea Adams
+Aaron Barczewski
+Luke Donnelly
+
+Specific contributions by each person:
+Aaron Barczewski: (1/31/16) Completed tutorial steps 1-3. Fixed warnings from AdventureGame.java and Room.java. Submitted those up to the team GitHub repository.
+
+
+Time (min) spent by each person on this assignment:
+Aaron Barczewski: (1/31/16) 120 min
+
+
+CSU Honor Pledge:
+I have not given, received, or used any unauthorized assistance.
+
+I Aaron Barczewski complied with the honor pledge above.
